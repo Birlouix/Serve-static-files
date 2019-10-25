@@ -1,6 +1,6 @@
 # HOW TO INSTALL
 
-- run "npm install" at the root of this directory ton install all the dependencies
+- run "npm install" at the root of this directory to install all the dependencies
 - go to line 7 of index.js and edit the link to fit your needs
 
 ## HOW TO LAUNCH SERVER
